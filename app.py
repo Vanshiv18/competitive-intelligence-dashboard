@@ -10,7 +10,10 @@ Deploy:        push to GitHub, connect repo at share.streamlit.io
 import streamlit as st
 import pandas as pd
 
-from modules import kpi, pricing, sentiment, npi, battlecards
+from modules import kpi, pricing
+import sentiment
+import npi
+import battlecards
 
 st.set_page_config(page_title="CompIntel", layout="wide")
 
