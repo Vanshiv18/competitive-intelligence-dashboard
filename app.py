@@ -1,8 +1,3 @@
-# CompIntel | Competitive Intelligence Dashboard
-
-🚀 **Live Dashboard:** [Open CompIntel Dashboard](https://competitive-intelligence-dashboard-vk7ejdvnncedypccafwgd6.streamlit.app/)
-
-An interactive competitive intelligence dashboard for laptop market pricing, competitor analysis, and strategic insights.
 """
 CompIntel - Competitive Intelligence & Battle Card Engine
 A market research / competitive intelligence tool built around the
