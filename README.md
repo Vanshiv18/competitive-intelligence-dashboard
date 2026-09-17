@@ -1,3 +1,6 @@
+## 🚀 Live Dashboard
+
+[Open CompIntel Dashboard](https://competitive-intelligence-dashboard-vk7ejdvnncedypccafwgd6.streamlit.app/)
 # Competitive Intelligence Dashboard
 
 ## Project Overview
