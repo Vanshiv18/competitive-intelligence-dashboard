@@ -1,0 +1,5 @@
+segment,Product_Count,Average_Price,Minimum_Price,Maximum_Price
+Budget (<₹50K),4,46240.0,39990,49990
+High-End (₹120K+),2,171490.0,139990,202990
+Mid-Range (₹50K–₹80K),9,66220.22222222222,50990,75210
+Premium (₹80K–₹120K),6,99075.5,82494,112990

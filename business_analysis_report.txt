@@ -1,0 +1,40 @@
+COMPETITIVE INTELLIGENCE BUSINESS ANALYSIS
+
+1. EXECUTIVE OVERVIEW
+The dataset contains 21 laptop products across 5 brands.
+The average listed price is ₹81,827.
+The lowest listed price is ₹39,990.
+The highest listed price is ₹202,990.
+
+2. BRAND-LEVEL ANALYSIS
+ brand  Products  Average_Price  Minimum_Price  Maximum_Price
+  ASUS         5       66190.00          39990         103990
+  Acer         4       53242.25          44990          67999
+  Dell         4       78825.75          61990         109990
+    HP         3       95161.00          82494         112990
+Lenovo         5      114734.00          60490         202990
+
+3. SEGMENT ANALYSIS
+              segment  Product_Count  Average_Price  Minimum_Price  Maximum_Price
+       Budget (<₹50K)              4   46240.000000          39990          49990
+    High-End (₹120K+)              2  171490.000000         139990         202990
+Mid-Range (₹50K–₹80K)              9   66220.222222          50990          75210
+ Premium (₹80K–₹120K)              6   99075.500000          82494         112990
+
+4. KEY OBSERVATIONS
+- The dataset covers multiple laptop price segments.
+- Brand pricing varies across budget, mid-range, premium, and high-end categories.
+- Product configuration should be considered alongside listed price.
+- Missing ratings and reviews have not been treated as verified customer sentiment.
+- Source validation status should be reviewed before making final business claims.
+
+5. BUSINESS IMPLICATIONS
+- Compare products using both price and configuration.
+- Identify gaps where customer requirements are not represented by current products.
+- Validate competitor pricing before making pricing decisions.
+- Avoid treating this sample as total market share.
+
+6. DATA LIMITATIONS
+- The analysis is based on the available 21-product sample.
+- Some records require independent source validation.
+- Customer sentiment conclusions cannot be made without verified review data.

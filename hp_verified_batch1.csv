@@ -1,0 +1,4 @@
+brand,category,model,price_inr,mrp_inr,segment,rating,review_count,ram_gb,storage_gb,discount_pct,source_url,collection_date,data_status
+HP,Laptop,OmniBook 3 14-ht0218TU,69999,206414,Mid,,,8,512,66.09,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing
+HP,Laptop,OmniBook 5 14-hh0082TU,131999,261354,Premium,,,16,1024,49.49,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing
+HP,Laptop,Victus 15-fb3385AX,119999,255395,Gaming,,,16,512,53.01,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing

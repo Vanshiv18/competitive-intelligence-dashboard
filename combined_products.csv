@@ -1,0 +1,16 @@
+brand,category,model,price_inr,segment,rating,review_count,ram_gb,storage_gb,discount_pct,mrp_inr,source_url,collection_date,data_status
+HP,Laptop,Pavilion 15,54990,Mid,4.2,1850.0,16.0,512.0,12.0,,,,
+HP,Laptop,Victus 15,64990,Mid,4.3,920.0,16.0,512.0,10.0,,,,
+HP,Laptop,Spectre x360,124990,Premium,4.5,410.0,16.0,1024.0,8.0,,,,
+Dell,Laptop,Inspiron 15,49990,Budget,4.0,3200.0,8.0,512.0,15.0,,,,
+Dell,Laptop,XPS 13,119990,Premium,4.6,780.0,16.0,512.0,7.0,,,,
+Lenovo,Laptop,IdeaPad Slim 3,42990,Budget,3.9,4100.0,8.0,512.0,18.0,,,,
+Lenovo,Laptop,Legion 5,89990,Mid,4.4,1100.0,16.0,512.0,11.0,,,,
+HP,Printer,LaserJet M1005,10990,Budget,4.1,2200.0,,,5.0,,,,
+Canon,Printer,PIXMA G3010,13490,Budget,4.3,3400.0,,,8.0,,,,
+Epson,Printer,EcoTank L3250,15990,Mid,4.4,2900.0,,,6.0,,,,
+HP,Printer,Smart Tank 580,16990,Mid,4.2,1500.0,,,7.0,,,,
+Canon,Printer,PIXMA TS207,4490,Budget,3.8,5200.0,,,10.0,,,,
+HP,Laptop,OmniBook 3 14-ht0218TU,69999,Mid,,,8.0,512.0,66.09,206414.0,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing
+HP,Laptop,OmniBook 5 14-hh0082TU,131999,Premium,,,16.0,1024.0,49.49,261354.0,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing
+HP,Laptop,Victus 15-fb3385AX,119999,Gaming,,,16.0,512.0,53.01,255395.0,https://www.hp.com/in-en/shop/listings/laptops?formfactor=notebook,2026-09-16,Captured from official HP listing
